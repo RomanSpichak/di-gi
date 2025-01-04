@@ -1,0 +1,19 @@
+
+main {
+    padding: 10px;
+    margin: 10px;
+    background-image: linear-gradient(whitesmoke, darkolivegreen);
+}
+
+header {
+    box-shadow: -5px 5px 25px dimgrey;
+}
+
+nav {
+    box-shadow: -5px 5px 25px dimgrey;
+    background-image: linear-gradient(whitesmoke, lightsalmon);
+}
+
+section {
+    float: right;
+}
