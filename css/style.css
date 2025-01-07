@@ -1,2 +1,79 @@
 /*_ The css class with all custom setting from html _*/
 
+/*The HEADER styles*/
+.header-block {
+    background-color: rgba(43, 64, 116, 1);
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*The INTRO styles*/
+.intro-block {
+    height: 668px;
+    background-image: url("../images/intro-bg.png");
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.intro-title-text {
+    font-size: 96px;
+    text-align: center;
+    font-family: "Roboto Light", sans-serif;
+    text-transform: uppercase;
+}
+.intro-text {
+    font-size: 24px;
+    font-family: "Roboto Light", sans-serif;
+    text-align: center;
+}
+.intro-button-container {
+    background-color: rgba(43, 64, 116, 1);
+    width: 200px;
+    height: 50px;
+    font-size:17px;
+    text-align: center;
+    font-family: "Roboto Light", sans-serif;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+}
+.intro-pagination {
+    width: 50px;
+    padding: 12px;
+}
+.intro-arrows {
+    width: 70px;
+    height: 140px;
+}
+
+/*The PROMO styles*/
+.promo-block {
+    background-color: rgba(43, 64, 116, 1);
+    height: 192px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.promo-text {
+    color: white;
+}
+.promo-button {
+    background-color: rgba(249, 246, 229, 1);
+    width: 200px;
+    height: 50px;
+    font-size:17px;
+    text-align: center;
+    font-family: "Roboto Light", sans-serif;
+    text-transform: uppercase;
+}
+.promo-text-top {
+    font-size: 24px;
+    font-family: "Roboto Light", sans-serif;
+}
+.promo-text-bottom {
+    font-size: 16px;
+    font-family: "Roboto Light", sans-serif;
+}
