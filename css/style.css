@@ -1,2 +1,54 @@
 /*_ The css class with all custom setting from html _*/
 
+:root {
+    --bg-color-blue: rgba(43, 64, 116, 1);
+    --bg-color-cap: rgba(249, 246, 229, 1);
+    --bg-color-white: rgba(255, 255, 255, 1);
+    --bg-color-gradient: linear-gradient(rgba(43, 64, 116, 1), rgba(43, 64, 116, 0));
+}
+
+.header {
+    background-color: var(--bg-color-blue);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10%;
+}
+
+.logo-header {
+    max-width: 100px;
+    max-height: 68px;
+}
+
+.button-header {
+    max-height: 40px;
+    max-width: 40px;
+}
+
+.intro {
+    background-image: url("images/intro-bg.png");
+}
+
+.intro__title {
+    font-family: Roboto Condensed, serif;
+    font-size: 96px;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 96px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.intro__text {
+    font-family: Roboto Condensed, serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
