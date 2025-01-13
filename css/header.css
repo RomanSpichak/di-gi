@@ -1,0 +1,25 @@
+
+.header {
+    height: 100px;
+    background-color: rgba(43, 64, 116, 1);
+}
+
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    margin: 0 10%;
+}
+
+.header__menu-button {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    border-color: white;
+}

@@ -1,1 +1,1 @@
-Folder with css styles
+Decomposed the CSS class into several classes for easy use
