@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;RomanSpichak&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/RomanSpichak/di-gi.git&quot;,
-    &quot;accountId&quot;: &quot;b66eee52-9e3b-4378-a405-d65012b26378&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RomanSpichak/di-gi.git",
+    "accountId": "c68309d4-22fd-4c80-9c96-6862000324be"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -89,6 +89,7 @@
       <workItem from="1736785027401" duration="470000" />
       <workItem from="1736788223904" duration="6698000" />
       <workItem from="1736831344190" duration="1211000" />
+      <workItem from="1736850716431" duration="3010000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
