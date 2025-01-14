@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="...">
+    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Make a header, centered logo and button menu.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/intro.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +90,7 @@
       <workItem from="1736788223904" duration="6698000" />
       <workItem from="1736831344190" duration="1211000" />
       <workItem from="1736850716431" duration="3010000" />
-      <workItem from="1736880006806" duration="3542000" />
+      <workItem from="1736880006806" duration="6828000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -148,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736697797110</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Make a header, centered logo and button menu.">
+      <option name="closed" value="true" />
+      <created>1736883836682</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736883836683</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +169,9 @@
     <MESSAGE value="make: header,  intro, promo" />
     <MESSAGE value="header" />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="clean" />
+    <MESSAGE value="Make a header, centered logo and button menu" />
+    <MESSAGE value="Make a header, centered logo and button menu." />
+    <option name="LAST_COMMIT_MESSAGE" value="Make a header, centered logo and button menu." />
   </component>
 </project>

@@ -1,0 +1,67 @@
+
+.intro {
+    background-image: url("../images/intro-bg.png");
+    background-size: cover;
+    min-height: 668px;
+    color: white;
+}
+
+.intro__container {
+}
+
+.intro__title {
+
+    font-family: Roboto Condensed;
+    font-size: 96px;
+    font-weight: 400;
+    line-height: 96px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    text-transform: uppercase;
+}
+
+.intro__text {
+    font-family: Roboto Condensed;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.intro__button {
+    text-align: center;
+}
+
+.intro__read-more {
+    background-color: var(--primary-color);
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    text-transform: uppercase;
+    min-height: 50px;
+    min-width: 200px;
+    color: var(--secondary-color);
+    border-radius: 3px;
+    border-color: var(--primary-color);
+}
+
+.intro__pagination {
+    text-align: center;
+}
+
+.intro__arrow {
+
+}
+
+.arrow {
+    background-color: coral;
+}
