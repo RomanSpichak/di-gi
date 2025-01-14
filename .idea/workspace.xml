@@ -33,7 +33,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/RomanSpichak/di-gi.git",
-    "accountId": "c68309d4-22fd-4c80-9c96-6862000324be"
+    "accountId": "b66eee52-9e3b-4378-a405-d65012b26378"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -90,6 +90,7 @@
       <workItem from="1736788223904" duration="6698000" />
       <workItem from="1736831344190" duration="1211000" />
       <workItem from="1736850716431" duration="3010000" />
+      <workItem from="1736880006806" duration="3542000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
