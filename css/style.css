@@ -5,6 +5,7 @@
 :root {
     --primary-color: rgba(43, 64, 116, 1);
     --secondary-color: rgba(249, 246, 229, 1);
+    --gray-color: rgba(74, 74, 74, 1);
     --linear-gradient: linear-gradient(rgba(43, 64, 116, 1), rgba(43, 64, 116, 0));
     --primary-font: 'Roboto Condensed';
     --secondary-font: 'Roboto';
