@@ -7,10 +7,13 @@
 }
 
 .intro__container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
 .intro__title {
-
     font-family: Roboto Condensed;
     font-size: 96px;
     font-weight: 400;
@@ -20,6 +23,7 @@
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     text-transform: uppercase;
+    margin-top: 5%;
 }
 
 .intro__text {
@@ -30,7 +34,6 @@
     text-align: center;
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
-
 }
 
 .intro__button {
@@ -51,17 +54,28 @@
     min-width: 200px;
     color: var(--secondary-color);
     border-radius: 3px;
-    border-color: var(--primary-color);
+    border: none;
 }
 
 .intro__pagination {
     text-align: center;
 }
 
-.intro__arrow {
-
+.intro__arrows {
+    position: absolute;
+    right: 0;
 }
 
-.arrow {
-    background-color: coral;
+.left__arrow {
+    background-color: var(--primary-color);
+    height: 70px;
+    width: 70px;
+    border: none;
+}
+
+.right__arrow {
+    background-color: var(--secondary-color);
+    height: 70px;
+    width: 70px;
+    border: none;
 }
