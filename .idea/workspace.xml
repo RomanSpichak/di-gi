@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="make services.css">
-      <change afterPath="$PROJECT_DIR$/css/recent-works.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/recent-works.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/recent-works.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,7 @@
       <workItem from="1736850716431" duration="3010000" />
       <workItem from="1736880006806" duration="6828000" />
       <workItem from="1736914773499" duration="15664000" />
-      <workItem from="1737012015026" duration="8531000" />
+      <workItem from="1737012015026" duration="9769000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -190,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737019257784</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="make services.css">
+      <option name="closed" value="true" />
+      <created>1737025374134</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737025374134</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
