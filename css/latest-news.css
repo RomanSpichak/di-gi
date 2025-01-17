@@ -13,6 +13,7 @@
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     padding-top: 5%;
+    color: var(--gray-color);
 }
 
 .latest-news__separator-line {

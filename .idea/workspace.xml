@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="making video-block.css">
+    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Did latest-news.css section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/latest-news.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/latest-news.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,7 @@
       <workItem from="1736880006806" duration="6828000" />
       <workItem from="1736914773499" duration="15664000" />
       <workItem from="1737012015026" duration="15932000" />
-      <workItem from="1737088987398" duration="3151000" />
+      <workItem from="1737088987398" duration="4047000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -215,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737044264588</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Did latest-news.css section">
+      <option name="closed" value="true" />
+      <created>1737094290541</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1737094290541</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +243,7 @@
     <MESSAGE value="make services.css" />
     <MESSAGE value="making recent-works.css" />
     <MESSAGE value="making video-block.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="making video-block.css" />
+    <MESSAGE value="Did latest-news.css section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Did latest-news.css section" />
   </component>
 </project>
