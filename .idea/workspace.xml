@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="making video-block.css">
-      <change afterPath="$PROJECT_DIR$/css/latest-news.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/latest-news.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/latest-news.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +93,7 @@
       <workItem from="1736880006806" duration="6828000" />
       <workItem from="1736914773499" duration="15664000" />
       <workItem from="1737012015026" duration="15932000" />
+      <workItem from="1737088987398" duration="3151000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
