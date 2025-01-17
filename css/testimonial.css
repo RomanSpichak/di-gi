@@ -1,8 +1,36 @@
 
 .testimonial {
-    min-height: 480px;
+    /*height: 480px;*/
 }
 
 .testimonial__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 480px;
+}
+
+.testimonial__text {
+    color: var(--gray-color);
+    font-family: var(--primary-font);
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42.19px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.testimonial__author {
+    color: var(--gray-color);
+    font-family: var(--primary-font);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28.13px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
 
 }
