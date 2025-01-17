@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Did latest-news.css section">
-      <change afterPath="$PROJECT_DIR$/css/testimonial.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/latest-news.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/latest-news.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Start doing testimonial.css" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +90,7 @@
       <workItem from="1736914773499" duration="15664000" />
       <workItem from="1737012015026" duration="15932000" />
       <workItem from="1737088987398" duration="4047000" />
-      <workItem from="1737109467326" duration="2292000" />
+      <workItem from="1737109467326" duration="2505000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -225,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737094290541</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Start doing testimonial.css">
+      <option name="closed" value="true" />
+      <created>1737117322329</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737117322329</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +250,7 @@
     <MESSAGE value="making recent-works.css" />
     <MESSAGE value="making video-block.css" />
     <MESSAGE value="Did latest-news.css section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Did latest-news.css section" />
+    <MESSAGE value="Start doing testimonial.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start doing testimonial.css" />
   </component>
 </project>
