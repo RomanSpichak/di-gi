@@ -2,3 +2,72 @@
 .footer {
     min-height: 728px;
 }
+
+.footer__container {
+}
+
+.footer__top-line {
+    min-height: 42px;
+}
+
+.footer__main {
+    min-height: 639px;
+    background-color: var(--primary-color);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer__logo {
+    background-color: var(--primary-color);
+    min-height: 60px;
+    min-width: 230px;
+    text-align: center;
+    border-radius: 3px;
+    position: absolute;
+    top: 2%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.footer__text {
+    font-family: var(--secondary-font);
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 2px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+
+.footer__social-network {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    min-height: 63px;
+    text-align: center;
+    align-items: center;
+}
+
+.footer__contact {
+    background-color: lightgreen;
+    border: 3px solid snow;
+}
+
+.footer__bottom-line {
+    min-height: 47px;
+    background-color: var(--secondary-color);
+}
+
+.footer__wrapper {
+    width: 80%;
+}
+
+.social-network__item {
+    height: 100%;
+    border: 1px solid var(--border-color);
+    align-content: center;
+}
