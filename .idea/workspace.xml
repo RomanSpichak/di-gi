@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Start doing testimonial.css">
+    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Making testimonial.css, started making footer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +97,7 @@
       <workItem from="1737109467326" duration="2505000" />
       <workItem from="1737119649427" duration="53000" />
       <workItem from="1737119762311" duration="1109000" />
-      <workItem from="1737272621938" duration="280000" />
+      <workItem from="1737272621938" duration="2832000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -233,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737117322329</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Making testimonial.css, started making footer">
+      <option name="closed" value="true" />
+      <created>1737273463468</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737273463468</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +266,7 @@
     <MESSAGE value="making video-block.css" />
     <MESSAGE value="Did latest-news.css section" />
     <MESSAGE value="Start doing testimonial.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start doing testimonial.css" />
+    <MESSAGE value="Making testimonial.css, started making footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Making testimonial.css, started making footer" />
   </component>
 </project>
