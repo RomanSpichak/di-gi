@@ -4,10 +4,9 @@
     height: 728px;
     top: 4234px;
     margin: 0 auto;
-
-    background-color: lightsalmon;
 }
 
 .footer__container {
-    background-color: magenta;
+    background-color: lightcoral;
+    height: 100%;
 }
