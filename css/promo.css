@@ -14,11 +14,11 @@
     margin: 0 10%;
 }
 
-.promo__container--text-box {
+.promo__text-box {
     color: white;
 }
 
-.promo__container--title {
+.promo__title {
     font-family: var(--secondary-font);
     font-size: 24px;
     font-weight: 500;
@@ -28,7 +28,7 @@
     text-decoration-skip-ink: none;
 }
 
-.promo__container--text {
+.promo__text {
     font-family: var(--dosis-font);
     font-size: 16px;
     font-weight: 300;
@@ -39,7 +39,7 @@
 
 }
 
-.promo__container--button {
+.promo__button {
     background-color: var(--secondary-color);
     width: 200px;
     height: 50px;
