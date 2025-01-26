@@ -1,6 +1,6 @@
 
 .latest-news {
-    width: 1441px;
+    max-width: 1440px;
     height: 1044px;
     margin: 0 auto;
     background-color: var(--secondary-color);
@@ -57,4 +57,16 @@
     text-align: center;
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
+}
+
+@media (max-width: 1024px) {
+    .latest-news {
+        height: 1368px;
+    }
+    .latest-news__items {
+        columns: 3;
+    }
+    .latest-news__item {
+        display: inline-flex;
+    }
 }

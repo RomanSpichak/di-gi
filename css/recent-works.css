@@ -1,6 +1,6 @@
 
 .recent-work {
-    width: 1440px;
+    max-width: 1440px;
     height: 618px;
     top: 1507px;
     margin: 0 auto;
@@ -17,7 +17,7 @@
 }
 
 .recent-work__separator-line {
-    width: 100px;
+    max-width: 100px;
     height: 8px;
     margin-top: -4%;
 }
@@ -56,4 +56,13 @@
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     margin-top: 10%;
+}
+
+@media (max-width: 1024px) {
+    .recent-work {
+        height: 1033px;
+    }
+    .recent-work__items {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }

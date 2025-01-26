@@ -1,6 +1,6 @@
 
 .promo {
-    width: 1440px;
+    max-width: 1440px;
     height: 192px;
     margin: 0 auto;
     background-color: var(--primary-color);
@@ -55,4 +55,17 @@
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     text-transform: uppercase;
+}
+
+@media (max-width: 1024px) {
+    .promo__title {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 18px;
+    }
+    .promo__text {
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 16px;
+    }
 }

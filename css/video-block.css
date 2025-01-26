@@ -1,9 +1,7 @@
 
 .video-block {
-    width: 1440px;
+    max-width: 1440px;
     height: 580px;
-    top: 2095px;
-    left: 1px;
     margin: 0 auto;
     align-content: center;
 }
@@ -74,3 +72,34 @@
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
 }
+.video-block__break-desc {
+    display: none;
+}
+
+@media (max-width: 1024px) {
+    .video-block__image {
+        width: 395px;
+        height: 380px;
+    }
+    .video-block__text-block {
+        margin-left: 5%;
+    }
+    .video-block__separator-line {
+        margin-top: -10%;
+        width: 100px;
+        height: 8px;
+    }
+    .video-block__text {
+        margin-top: 2%;
+    }
+    .video-block__button {
+        margin-top: -2%;
+    }
+    .video-block__break-desc {
+        display: block;
+    }
+    .video-block__break-hd-desc {
+        display: none;
+    }
+}
+

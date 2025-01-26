@@ -1,7 +1,7 @@
 
 .header {
     max-width: 1440px;
-    min-height: 100px;
+    height: 100px;
     margin: 0 auto;
     background-color: var(--primary-color);
 }
@@ -10,7 +10,7 @@
     margin: 0 10%;
     display: flex;
     justify-content: space-between;
-    min-height: 100px;
+    min-height: 100%;
     align-items: center;
 }
 
