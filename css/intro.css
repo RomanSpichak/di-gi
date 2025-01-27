@@ -7,6 +7,9 @@
     opacity: 0.95;
     margin: 0 auto;
     background-image: url("../images/intro-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .intro__container {
@@ -94,6 +97,9 @@
 }
 
 @media (max-width: 1024px) {
+    .intro {
+        height: 618px;
+    }
     .intro__title {
         font-size: 84px;
         font-weight: 400;
@@ -110,5 +116,42 @@
     .intro__arrow--left, .intro__arrow--right {
         height: 56px;
         width: 56px;
+    }
+}
+
+@media (max-width: 768px) {
+    .intro {
+        height: 465px;
+    }
+    .intro__title {
+        font-size: 60px;
+        font-weight: 400;
+        line-height: 60px;
+    }
+}
+
+@media (max-width: 640px) {
+    .intro {
+        height: 386px;
+    }
+    .intro__text {
+        display: none;
+    }
+}
+
+@media (max-width: 430px) {
+    .intro {
+        height: 193px;
+    }
+    .intro__button {
+        display: none;
+    }
+    .intro__arrows {
+        display: none;
+    }
+    .intro__title {
+        font-size: 28px;
+        font-weight: 400;
+        line-height: 28px;
     }
 }
