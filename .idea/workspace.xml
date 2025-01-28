@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Did @media header.css intro.css promo.css" />
+    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Started @media services.css" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +105,7 @@
       <workItem from="1737868246718" duration="10949000" />
       <workItem from="1737954795859" duration="114000" />
       <workItem from="1737955017383" duration="9168000" />
+      <workItem from="1737980288586" duration="2755000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -298,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737970002764</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Started @media services.css">
+      <option name="closed" value="true" />
+      <created>1737988393335</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1737988393335</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +335,7 @@
     <MESSAGE value="Changed HTML and CSS, now having better layout" />
     <MESSAGE value="Did footer.css" />
     <MESSAGE value="Did @media header.css intro.css promo.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Did @media header.css intro.css promo.css" />
+    <MESSAGE value="Started @media services.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started @media services.css" />
   </component>
 </project>
