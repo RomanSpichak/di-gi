@@ -91,9 +91,26 @@
     }
     .recent-work__item {
         width: 85%;
-        background-color: #ffff99;
     }
     .recent-work__desc {
-        background-color: coral;
+        margin-top: 3%;
+        font-weight: bold;
+    }
+}
+
+@media (max-width: 430px) {
+    .recent-work {
+        height: 1384px;
+    }
+    .recent-work__title {
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 28.13px;
+    }
+    .recent-work__desc {
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 18.75px;
+        margin-top: 5%;
     }
 }
