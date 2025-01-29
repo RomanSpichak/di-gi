@@ -65,4 +65,35 @@
     .recent-work__items {
         grid-template-columns: repeat(2, 1fr);
     }
+    .recent-work__items {
+        width: 70%;
+    }
+}
+
+@media (max-width: 768px) {
+    .recent-work__items {
+        width: 95%;
+    }
+    .recent-work__desc {
+        font-size: 20px;
+        line-height: 23.44px;
+        font-weight: bold;
+    }
+}
+
+@media (max-width: 640px) {
+    .recent-work {
+        height: 2288px;
+    }
+    .recent-work__items {
+        grid-template-columns: 1fr;
+        justify-items: center;
+    }
+    .recent-work__item {
+        width: 85%;
+        background-color: #ffff99;
+    }
+    .recent-work__desc {
+        background-color: coral;
+    }
 }
