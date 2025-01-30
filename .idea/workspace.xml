@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Started @media recent-works.css">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/recent-works.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/recent-works.css" afterDir="false" />
-    </list>
+    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="DId recent-works.css @media" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +113,7 @@
       <workItem from="1737955017383" duration="9168000" />
       <workItem from="1737980288586" duration="2755000" />
       <workItem from="1738125674898" duration="3377000" />
-      <workItem from="1738135831080" duration="1713000" />
+      <workItem from="1738135831080" duration="1998000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -326,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738131129649</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="DId recent-works.css @media">
+      <option name="closed" value="true" />
+      <created>1738144796141</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1738144796141</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +361,8 @@
     <MESSAGE value="Did @media header.css intro.css promo.css" />
     <MESSAGE value="Started @media services.css" />
     <MESSAGE value="Started @media recent-works.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started @media recent-works.css" />
+    <MESSAGE value="DId @media recent-works.css" />
+    <MESSAGE value="DId recent-works.css @media" />
+    <option name="LAST_COMMIT_MESSAGE" value="DId recent-works.css @media" />
   </component>
 </project>

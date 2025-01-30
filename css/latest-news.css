@@ -70,3 +70,46 @@
         display: inline-flex;
     }
 }
+
+@media (max-width: 768px) {
+    .latest-news {
+        height: 1820px;
+    }
+    .latest-news__items {
+        columns: 2;
+        margin-top: 7%;
+        align-self: center;
+        width: 80%;
+    }
+}
+
+@media (max-width: 640px) {
+    .latest-news {
+        height: 1750px;
+    }
+    .latest-news__items {
+        width: 85%;
+    }
+    .latest-news__item {
+        width: 100%;
+    }
+    .latest-news__title {
+        font-size: 48px;
+        font-weight: 400;
+        line-height: 38px;
+    }
+}
+
+@media (max-width: 430px) {
+    .latest-news {
+        height: 4300px;
+    }
+    .latest-news__items {
+        columns: 1;
+    }
+    .latest-news__title {
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 38px;
+    }
+}
