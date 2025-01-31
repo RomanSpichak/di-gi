@@ -175,6 +175,11 @@
 }
 
 @media (max-width: 430px) {
+    .footer {
+        height: 1141px;
+    }
+    .footer__container {
+    }
     .footer__title {
         font-size: 20px;
         font-weight: 400;
@@ -193,21 +198,27 @@
         margin-top: -5%;
     }
     .footer__middle-box {
-        background-color: coral;
-        height: 1900px;
+        height: 1050px;
     }
     .footer__contacts {
-        /*grid-template-columns: 1fr;*/
-        background-color: magenta;
-        height: 100%;
+        height: 50%;
         display: flex;
         flex-direction: column;
+        text-align: center;
     }
-    .footer__social-networks {
-        background-color: dodgerblue;
+    .footer__bottom-line {
+        height: 142px;
+        justify-content: center;
     }
-    .footer__logo {
-        background-color: cyan;
-        margin-top: -12%;
+    .footer__back-to-top {
+        width: 100%;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer__button-img {
+        margin-top: 5%;
     }
 }
