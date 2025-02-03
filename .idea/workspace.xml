@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Finished @media">
+    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Started hover services.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/services.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/services.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service1-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service4-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service5-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service7-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/service8-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +128,9 @@
       <workItem from="1738135831080" duration="1998000" />
       <workItem from="1738268150651" duration="1240000" />
       <workItem from="1738312889052" duration="2833000" />
+      <workItem from="1738517625606" duration="1904000" />
+      <workItem from="1738556789294" duration="450000" />
+      <workItem from="1738594364627" duration="3988000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -343,14 +356,21 @@
       <option name="project" value="LOCAL" />
       <updated>1738315359531</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Started hover services.css">
+      <option name="closed" value="true" />
+      <created>1738519590638</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1738519590638</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="clean code" />
     <MESSAGE value="make: header,  intro" />
     <MESSAGE value="make: header,  intro, promo" />
     <MESSAGE value="header" />
@@ -375,6 +395,7 @@
     <MESSAGE value="DId @media recent-works.css" />
     <MESSAGE value="DId recent-works.css @media" />
     <MESSAGE value="Finished @media" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished @media" />
+    <MESSAGE value="Started hover services.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started hover services.css" />
   </component>
 </project>
