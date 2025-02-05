@@ -99,6 +99,7 @@
 
 .services__items--item:hover {
     border: 5px solid darkblue;
+    transition: border 0.5s ease-in-out;
     .services__items--description, .services__items--details {
         opacity: 1;
     }
