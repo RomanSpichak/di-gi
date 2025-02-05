@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Did hover services.css">
+    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Did hover recent-works.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,9 @@
     &quot;accountId&quot;: &quot;c68309d4-22fd-4c80-9c96-6862000324be&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -127,6 +130,8 @@
       <workItem from="1738674571957" duration="32000" />
       <workItem from="1738681104591" duration="34000" />
       <workItem from="1738736856706" duration="63000" />
+      <workItem from="1738748810347" duration="999000" />
+      <workItem from="1738778265681" duration="165000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -376,14 +381,21 @@
       <option name="project" value="LOCAL" />
       <updated>1738681121326</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Did hover recent-works.css">
+      <option name="closed" value="true" />
+      <created>1738749820745</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1738749820745</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="make: header,  intro, promo" />
     <MESSAGE value="header" />
     <MESSAGE value="..." />
     <MESSAGE value="clean" />
@@ -408,6 +420,7 @@
     <MESSAGE value="Finished @media" />
     <MESSAGE value="Started hover services.css" />
     <MESSAGE value="Did hover services.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Did hover services.css" />
+    <MESSAGE value="Did hover recent-works.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Did hover recent-works.css" />
   </component>
 </project>
