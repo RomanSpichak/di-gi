@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Did hover services.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/services.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/services.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +125,8 @@
       <workItem from="1738610948798" duration="922000" />
       <workItem from="1738657558365" duration="108000" />
       <workItem from="1738674571957" duration="32000" />
+      <workItem from="1738681104591" duration="34000" />
+      <workItem from="1738736856706" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -367,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738607563800</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Did hover services.css">
+      <option name="closed" value="true" />
+      <created>1738681121326</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1738681121326</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
