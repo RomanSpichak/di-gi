@@ -132,6 +132,8 @@
       <workItem from="1738736856706" duration="63000" />
       <workItem from="1738748810347" duration="999000" />
       <workItem from="1738778265681" duration="165000" />
+      <workItem from="1738779612394" duration="1232000" />
+      <workItem from="1738956506032" duration="43000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -389,7 +391,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738749820745</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Did hover recent-works.css">
+      <option name="closed" value="true" />
+      <created>1738780394062</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1738780394062</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Did hover recent-works.css">
+      <option name="closed" value="true" />
+      <created>1738781518504</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1738781518504</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
