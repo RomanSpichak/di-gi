@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Did hover latest-news.css" />
+    <list default="true" id="489aed16-611c-4491-b389-6c461a8b96aa" name="Changes" comment="Did hover latest-news.css">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,6 +135,8 @@
       <workItem from="1738779612394" duration="1232000" />
       <workItem from="1738956506032" duration="43000" />
       <workItem from="1739028789207" duration="360000" />
+      <workItem from="1739036831480" duration="585000" />
+      <workItem from="1739089118775" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="again :)">
       <option name="closed" value="true" />
@@ -414,7 +418,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739029262886</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Did hover latest-news.css">
+      <option name="closed" value="true" />
+      <created>1739037267557</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1739037267557</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
