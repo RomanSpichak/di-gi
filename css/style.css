@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@400;700&display=swap');
+
+:root {
+    --primary-color: rgba(43, 64, 116, 1);
+    --secondary-color: rgba(249, 246, 229, 1);
+    --gray-color: rgba(74, 74, 74, 1);
+    --border-color: #7EBF84;
+    --linear-gradient: linear-gradient(rgba(43, 64, 116, 1), rgba(43, 64, 116, 0));
+    --primary-font: 'Roboto Condensed';
+    --secondary-font: 'Roboto';
+    --dosis-font: 'Dosis';
+}

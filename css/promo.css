@@ -1,0 +1,133 @@
+
+.promo {
+    max-width: 1440px;
+    height: 192px;
+    margin: 0 auto;
+    background-color: var(--primary-color);
+}
+
+.promo__container {
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+    margin: 0 10%;
+}
+
+.promo__text-box {
+    color: white;
+}
+
+.promo__title {
+    font-family: var(--secondary-font);
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.promo__text {
+    font-family: var(--dosis-font);
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 18px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.promo__button {
+    background-color: var(--secondary-color);
+    width: 200px;
+    height: 50px;
+    gap: 0px;
+    border-radius: 3px;
+    border: none;
+    color: var(--primary-color);
+    font-family: var(--secondary-font);
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    text-transform: uppercase;
+}
+
+.promo__break-line {
+    display: none;
+}
+.promo__small-size--break {
+    display: none;
+}
+
+@media (max-width: 1024px) {
+    .promo {
+        height: 160px;
+    }
+    .promo__title {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 18px;
+    }
+    .promo__text {
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 16px;
+    }
+    .promo__container {
+        margin: 0 5%;
+        height: 160px;
+    }
+}
+
+@media (max-width: 768px) {
+    .promo {
+        height: 187px;
+    }
+    .promo__title {
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 24px;
+    }
+    .promo__text {
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 18px;
+    }
+}
+
+@media (max-width: 640px) {
+    .promo {
+        height: 254px;
+    }
+    .promo__container {
+        flex-direction: column;
+        height: 100%;
+        justify-content: space-around;
+    }
+    .promo__text {
+        text-align: center;
+    }
+    .promo__button {
+        margin-top: -10%;
+    }
+}
+
+@media (max-width: 430px) {
+    .promo {
+        height: 301px;
+    }
+    .promo__title {
+        text-align: center;
+    }
+    .promo__break-line {
+        display: block;
+    }
+    .promo__small-size--break {
+        display: block;
+    }
+}

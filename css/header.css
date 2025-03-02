@@ -1,0 +1,31 @@
+
+.header {
+    max-width: 1440px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: var(--primary-color);
+}
+
+.header__container {
+    margin: 0 10%;
+    display: flex;
+    justify-content: space-between;
+    min-height: 100%;
+    align-items: center;
+}
+
+.header__menu-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 3px;
+    width: 40px;
+    height: 40px;
+}
+
+@media (max-width: 1024px) {
+    .header__container {
+        margin: 0 5%;
+    }
+}
